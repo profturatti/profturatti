@@ -1,7 +1,13 @@
+Sejam bem vindos ao segundo semestre de 2024!
+
 - 👋 Hi! My name is Luiz
+  
 - 👀 I’m interested in programming, networks and security
+  
 - 🌱 I’m always learning new stuff and I love to share this knowledge
-- 💞️ I’m looking to collaborate on interesting projects where my work could be recognised as well 
+  
+- 💞️ I’m looking to collaborate on interesting projects where my work could be recognised as well
+  
 - 📫 Reach me by mail profDOTturattiATgmailDOTcom
 
 
